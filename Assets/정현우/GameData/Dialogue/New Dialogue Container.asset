@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2091e9aa72315d54ca3012c7b2346fb9, type: 3}
+  m_Name: New Dialogue Container
+  m_EditorClassIdentifier: 
+  line:
+  - "\uC548\uB155\uD558\uC138\uC694 \uC800\uB294 \uB9AC\uCE74\uC785\uB2C8\uB2E4"
+  - "\uC885\uC871\uC740 \uC5D8\uD504\uACE0\uC694"
+  - "\uB098, \uB098\uC774\uB294 200\uC0B4\uC774\uC9C0\uB9CC..."
+  - "\uC778\uAC04 \uB098\uC774\uB85C \uB530\uC9C0\uBA74 \uC544\uC9C1 20\uC0B4\uC785\uB2C8\uB2E4"
+  - "\uC808\uB300 \uD560\uBA38\uB2C8\uAC00 \uC544\uB2C8\uC5D0\uC694!!"
+  actor: {fileID: 11400000, guid: d9fd74f7fc35b9c43ad91b82c248b2fa, type: 2}
